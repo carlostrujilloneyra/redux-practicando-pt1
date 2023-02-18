@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nameProduct": "Marciano de Fresa",
+      "price": "3"
+    },
+    {
+      "id": 3,
+      "nameProduct": "Marciano de Coca Cola",
+      "price": "5"
+    }
+  ]
+}
